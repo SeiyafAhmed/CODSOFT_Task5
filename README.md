@@ -1,4 +1,4 @@
-# CODSOFT_Task5: CONTACT BOOK
+# CONTACT BOOK
 The Contact Book project is designed to provide a user-friendly interface for managing contacts. This application allows users to add new contacts, edit existing contacts, and delete contacts seamlessly. Built with Python, it leverages the ttkbootstrap and customtkinter libraries to offer a visually appealing and intuitive experience.
 
 ## Features
@@ -13,7 +13,7 @@ The Contact Book project is designed to provide a user-friendly interface for ma
 
 1. Clone the repository:
 ```
-git clone https://github.com/SeiyafAhmed/CODSOFT_Task5.git
+git clone https://github.com/SeiyafAhmed/Contact-Book.git
 ```
 
 2. Install the required libraries:
@@ -45,7 +45,7 @@ python main.py
 
 
 License
-This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/CODSOFT_Task5/blob/main/LICENSE) file for details. 
+This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/Contact-Book/blob/main/LICENSE) file for details. 
 
 Contact
 For any questions or suggestions, please [contact us](mailto:seiyafahmed.ofc@gmail.com).
